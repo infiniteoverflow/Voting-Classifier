@@ -2,6 +2,8 @@
 
 Voting Classifier is a machine learning model that trains on a collection of Classification models and predicts the output based on the prediction outputs of the individual classifiers that makes up the voting-classifier.
 
+![](classifier.png)
+
 Here , We have considered IRIS Dataset and passed it through three classifiers :
 
 - Logistic Regression
